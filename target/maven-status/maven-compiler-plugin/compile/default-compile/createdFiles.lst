@@ -1,0 +1,11 @@
+resources/PaintingsResource.class
+data/DomainsLoader.class
+ApplicationConfig.class
+data/PaintingsLoader.class
+resources/DomainsResource.class
+models/Painting.class
+resources/FilmsResource.class
+services/DomainsService.class
+services/PaintingsService.class
+services/FilmsService.class
+data/FilmsLoader.class
